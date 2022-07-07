@@ -1,3 +1,5 @@
 # CryptoTracker
-It is a Front End Project Created Using HTML5,CSS3 and javascript.
-The WebPage Displays the prices of various CryptoCurrencies and auto updates them every 10 seconds.
+It is a Front End Project Created Using HTML5 and javascript.
+Web App to track the live data like Price, Volume, Change etc for several Cryptocurrencies.
+Fetches live APIs from Coinstats using Axios.
+Auto price and other data update without refreshing in every 30 seconds.
